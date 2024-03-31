@@ -107,7 +107,7 @@ function Stats() {
   return (
     <>
       <footer className="stats">
-        <em style={{ color: "blue" }}>hi have a safe journey</em>
+        <em style={{ color: "green" }}>hi have a safe journey</em>
       </footer>
     </>
   );
